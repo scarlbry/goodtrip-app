@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
-  <channel>
-    <title>Sparkle Test App Changelog</title>
-    <description>Goodtrip mise à jour récentes.</description>
-    <language>fr</language>
-    <item>
-      <title>Version 2.1</title>
-      <sparkle:version>2.2</sparkle:version>
-      <description>
-      <![CDATA[ <ul> <li>Mise à jour récentes goodtrip.</li> </ul> ]]>
-      </description>
-      <pubDate>Wed, 28 Jun 2023 08:20:11 +0000</pubDate>
-      <enclosure url="https://play.google.com/store/apps/details?id=com.anaxar.goodtrip" sparkle:version="2.1.0" sparkle:os="android" /> 
-    </item>
-  </channel>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Debt Now App - Appcast</title>
+        <item>
+            <title>Version 2.1.0</title>
+            <description>Minor updates and improvements.</description>
+            <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.anaxar.goodtrip" sparkle:version="2.1.0" sparkle:os="android" />
+        </item>
+    </channel>
 </rss>
